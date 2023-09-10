@@ -1,16 +1,18 @@
 <script setup>
-import TopNavbar from "../../components/TopNavbar.vue";
+import TopNavbar from "../../components/Navbar.vue";
+import NewArrivals from "../../components/NewArrivals.vue";
 </script>
 
 <template>
   <TopNavbar />
+  <NewArrivals />
 </template>
-<style></style>
 
 <script>
 export default {
   components: {
     TopNavbar,
+    NewArrivals,
   },
 
   computed: {},

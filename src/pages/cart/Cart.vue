@@ -1,5 +1,5 @@
 <script setup>
-import TopNavbar from "../../components/TopNavbar.vue";
+import TopNavbar from "../../components/Navbar.vue";
 </script>
 
 <template>
